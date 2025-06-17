@@ -29,7 +29,7 @@ export const projectsData = [
     title: "E-Learning Plateform",
     category: "web",
     demoUrl: "",
-    sourceUrl: "https://github.com/soumyajiitt/RepoQuest",
+    sourceUrl: "",
     status: "completed",
   },
   {
