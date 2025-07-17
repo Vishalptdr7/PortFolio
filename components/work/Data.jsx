@@ -29,7 +29,7 @@ export const projectsData = [
     title: "E-Learning Plateform",
     category: "web",
     demoUrl: "",
-    sourceUrl: "",
+    sourceUrl: "https://github.com/Vishalptdr7/Minor_project-1",
     status: "completed",
   },
   {
