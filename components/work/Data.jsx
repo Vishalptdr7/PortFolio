@@ -25,7 +25,7 @@ export const projectsData = [
     sourceUrl: "https://github.com/Vishalptdr7/Price-Tracker",
     status: "completed",
     description:
-      "A price tracking app that monitors product prices on Amazon and Flipkart. Users can paste product URLs and set target prices. The system checks prices periodically and sends email or SMS alerts when prices drop. Implemented web scraping using Cheerio and Puppeteer, along with email/SMS notification logic. I build this using React.js, Tailwind CSS, Axios, Node.js, Express.js, MongoDB, Puppeteer, Cheerio, Node-Cron, Nodemailer.",
+      "A price tracking app that monitors product prices on Amazon and Flipkart. Users can paste product URLs and set target prices. The system checks prices periodically and sends email or SMS alerts when prices drop. Implemented web scraping using Cheerio and Puppeteer, along with email/SMS notification logic. I build this using React.js, Tailwind CSS, Axios, Node.js, Express.js, MySQL, Puppeteer, Cheerio, Node-Cron, Nodemailer.",
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ Students engage with the content through an intuitive interface.
 
 Teachers manage course materials and monitor learners’ performance in real time.
 
-Built using HTML, CSS, JavaScript, Node.js, and MongoDB, the system supports core learning interactions while keeping the architecture simple and efficient.`,
+Built using HTML, CSS, JavaScript, Node.js, and MySQL, the system supports core learning interactions while keeping the architecture simple and efficient.`,
   },
   {
     id: 4,
