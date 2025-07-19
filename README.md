@@ -12,7 +12,7 @@ Welcome to my personal developer portfolio — a sleek, interactive, and dynamic
 **Title:**  Software Developer  
 **Location:** Bhopal , India  
 
-Passionate Engineering Post Graduate, self-starter, quick learner, and adapt at using technical skills for organizational improvement.
+Passionate Engineering Post Graduate, quick learner, and adapt at using technical skills for organizational improvement.
 
 ---
 
@@ -60,7 +60,7 @@ Click the **“Say Hello”** button on my portfolio to **book a meeting** with 
 
 ## 🌐 Live Demo
 
-[🚀 Visit My Portfolio](https://vishalpatidar.netlify.app/)  
+[🚀 Visit My Portfolio](https://vishalptdrportfolio.netlify.app/)  
 
 ---
 
