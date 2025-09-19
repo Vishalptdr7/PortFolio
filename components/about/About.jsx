@@ -15,8 +15,6 @@ const About = () => {
         <img src={AboutImg} alt="About" className="about__img" />
 
         <div className="about__data">
-          
-
           <p className="about__description">
             MERN Stack Developer with experience in building full-stack web
             applications using MongoDB, Express.js, React, and Node.js. I
@@ -26,7 +24,13 @@ const About = () => {
             seamless user experiences.
           </p>
 
-          <a download href={CV} className="button button--flex">
+          <a
+            download
+            href={
+              "https://drive.google.com/file/d/1b3ylNgwxqRvHfbM-ZqqWnn7WRDToAXbl/view?usp=drivesdk"
+            }
+            className="button button--flex"
+          >
             Download CV
             <svg
               className="button__icon"

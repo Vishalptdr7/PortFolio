@@ -17,23 +17,12 @@ export const projectsData = [
       Backend: Node.js, Express.js, MySQL, JWT Auth, Socket.IO (server)`,
   },
   {
-    id: 2,
-    image: Work2,
-    title: "Price Tracker",
-    category: "web",
-    demoUrl: "",
-    sourceUrl: "https://github.com/Vishalptdr7/Price-Tracker",
-    status: "completed",
-    description:
-      "A price tracking app that monitors product prices on Amazon and Flipkart. Users can paste product URLs and set target prices. The system checks prices periodically and sends email or SMS alerts when prices drop. Implemented web scraping using Cheerio and Puppeteer, along with email/SMS notification logic. I build this using React.js, Tailwind CSS, Axios, Node.js, Express.js, MySQL, Puppeteer, Cheerio, Node-Cron, Nodemailer.",
-  },
-  {
     id: 3,
     image: Work3,
     title: "E-Learning Platform",
     category: "web",
     demoUrl: "",
-    sourceUrl: "https://github.com/Vishalptdr7/Minor_project-1",
+    sourceUrl: "https://github.com/Vishalptdr7/E-Learning-Platform.git",
     status: "completed",
     description: `A basic web-based e-learning platform designed to facilitate digital education. Students can access course content, watch educational videos, and take quizzes to test their understanding. Teachers can upload study materials and track student progress to ensure effective learning.
 
@@ -44,6 +33,18 @@ Teachers manage course materials and monitor learners’ performance in real tim
 
 Built using HTML, CSS, JavaScript, Node.js, and MySQL, the system supports core learning interactions while keeping the architecture simple and efficient.`,
   },
+  {
+    id: 2,
+    image: Work2,
+    title: "Price Tracker",
+    category: "web",
+    demoUrl: "",
+    sourceUrl: "https://github.com/Vishalptdr7/Price-Tracker",
+    status: "completed",
+    description:
+      "A price tracking app that monitors product prices on Amazon and Flipkart. Users can paste product URLs and set target prices. The system checks prices periodically and sends email or SMS alerts when prices drop. Implemented web scraping using Cheerio and Puppeteer, along with email/SMS notification logic. I build this using React.js, Tailwind CSS, Axios, Node.js, Express.js, MySQL, Puppeteer, Cheerio, Node-Cron, Nodemailer.",
+  },
+
   {
     id: 4,
     image: Work4,
